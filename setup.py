@@ -17,7 +17,7 @@ setup(
     ],
     entry_points={
         'console_scripts': [
-            'ossfuzz-tools=cli:main',
+            'oss-fuzz-tooling=ossfuzz_tooling.cli:main',
         ],
     },
 )
