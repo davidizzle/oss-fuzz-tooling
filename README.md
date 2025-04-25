@@ -1,4 +1,4 @@
-# 🛠️ ossfuzz-tooling
+# 🛠️ oss-fuzz-tooling
 
 > A self-contained Python module for exploring OSS-Fuzz metadata and project state — built for researchers, contributors, and the GSoC community.
 
@@ -6,7 +6,7 @@
 
 ## 📌 Project Overview
 
-`ossfuzz-tooling` is a CLI-friendly module designed to query and analyze OSS-Fuzz projects. It provides fast access to:
+`oss-fuzz-tooling` is a CLI-friendly module designed to query and analyze OSS-Fuzz projects. It provides fast access to:
 
 - ✅ Project listings & metadata
 - ✅ Fuzzer configurations
