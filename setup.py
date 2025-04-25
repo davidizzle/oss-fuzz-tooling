@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='ossfuzz-tooling',
+    name='oss-fuzz-tooling',
     version='0.1.0',
     author='Davide Ferretti',
     author_email='davide.ferretti8498@gmail.com',
