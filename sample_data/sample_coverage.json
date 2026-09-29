@@ -1,0 +1,12 @@
+{
+    "ansible": {
+      "lines_covered": 342,
+      "lines_total": 410,
+      "percent": 83.4
+    },
+    "angular": {
+      "lines_covered": 120,
+      "lines_total": 250,
+      "percent": 48.0
+    }
+  }

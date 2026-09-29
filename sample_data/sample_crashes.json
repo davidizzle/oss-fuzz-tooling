@@ -1,0 +1,10 @@
+{
+    "ansible": [
+      {
+        "id": "12345",
+        "summary": "Segfault in jpeg decoder",
+        "timestamp": "2024-03-15T12:34:00Z"
+      }
+    ],
+    "angular": []
+  }
